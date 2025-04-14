@@ -50,19 +50,19 @@ The objective of this pilot project is to conduct a thorough examination of cust
 
 ## 🏠 Home Page
 
-![Home Page](https://github.com/Pravesh-Agarwal/Shield-Insurance-BI-Dashboard/blob/main/Assets/Home%20Page.png)
+![Home Page](https://github.com/PunamGodugula/Shield-Insurance/blob/main/PowerBI%20Dashboard/1.%20Home%20Page.png)
 
 ## 📊 Overview Dashboard
 
-![Overview Dashboard](https://github.com/Pravesh-Agarwal/Shield-Insurance-BI-Dashboard/blob/main/Assets/Overview%20Dashboard.png)
+![Overview Dashboard](https://github.com/PunamGodugula/Shield-Insurance/blob/main/PowerBI%20Dashboard/2.%20General%20Overview.png)
 
 ## 📈 Sales Mode Dashboard
 
-![Sales Mode Dashboard](https://github.com/Pravesh-Agarwal/Shield-Insurance-BI-Dashboard/blob/main/Assets/Sales%20Mode%20Dashboard.png)
+![Sales Mode Dashboard](https://github.com/PunamGodugula/Shield-Insurance/blob/main/PowerBI%20Dashboard/3.%20Sales%20Mode%20Overview.png)
 
 ## 🔢 Age Group Dashboard
 
-![Age Group Dashboard](https://github.com/Pravesh-Agarwal/Shield-Insurance-BI-Dashboard/blob/main/Assets/Age%20Group%20Dashboard.png)
+![Age Group Dashboard](https://github.com/PunamGodugula/Shield-Insurance/blob/main/PowerBI%20Dashboard/4.%20Age%20Group%20Overview.png)
 
 
 ## 💡 Key Insights
@@ -87,8 +87,4 @@ The objective of this pilot project is to conduct a thorough examination of cust
 
 ## 📎 Links
 
-### 💼 [Linkedin Post](https://www.linkedin.com/posts/pravesh-agarwal27_codebasicsvirtualinternship-internship-powerbi-activity-7229776306974932992-wEpe?utm_source=share&utm_medium=member_desktop)
-
-### 📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDVmNGNhZmUtNGU3Yi00NjU0LWE3MTAtNGM1OTEwZjAwZmRlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-
-### 🖥️ [Presentation](https://youtu.be/357HTVCmy7U)
+### 📊 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2U3YTc3MmQtNDQ1Yi00MTAyLThmZmEtYzMyMDkwNTRmNTI4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
